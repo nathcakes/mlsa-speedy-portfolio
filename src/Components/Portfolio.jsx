@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Speedy Portfolio Site",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is the website you're on now! Can you believe we made this in less than 10 minutes? Thanks Microsoft!!",
+    url: "https://nathcakes.github.io/mlsa-speedy-portfolio",
   },
   {
     title: "Web Development for Beginners",
